@@ -2,7 +2,7 @@ asgiref==3.2.3
 Django==3.0.1
 dnspython==1.16.0
 enum-compat==0.0.3
-eventlet==0.25.1
+eventlet==0.31.0
 greenlet==0.4.15
 monotonic==1.5
 psycopg2==2.8.4
